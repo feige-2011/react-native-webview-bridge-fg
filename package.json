@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webview-bridge-updated",
+  "name": "react-native-webview-bridge-updated-fg",
   "version": "1.1.1",
   "description": "React Native WebView Javascript Bridge - updated",
   "license": "MIT",
@@ -18,13 +18,13 @@
     "ios",
     "webview-bridge"
   ],
-  "homepage": "https://github.com/wix/react-native-webview-bridge",
+  "homepage": "https://github.com/feige-2011/react-native-webview-bridge-fg",
   "bugs": {
-    "url": "https://github.com/wix/react-native-webview-bridge/issues"
+    "url": "https://github.com/feige-2011/react-native-webview-bridge-fg/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:wix/react-native-webview-bridge.git"
+    "url": "git@github.com:feige-2011/react-native-webview-bridge-fg.git"
   },
   "scripts": {
     "build": ":",
